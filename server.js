@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var port = process.env.PORT || 80;
+var port = process.env.PORT || 8080;
 
 var router = express.Router();
 
@@ -9,7 +9,7 @@ router.get('/', function(req, res) {
       user: {
         fullName: 'Kevin McCartney',
         username: 'kevinmccartney',
-        avatar: 'http://kevinmccartney.is/react-workshop-api/avatar.jpg'
+        avatar: 'http://kevinmccartney.is/react-workshop-api/assets/avatar.jpg'
       },
       message: "Mixtape sriracha brunch, artisan kogi salvia asymmetrical organic. Artisan thundercats pinterest, knausgaard street art lumbersexual sustainable shabby chic food truck scenester tacos banh mi franzen tote bag."
     });
