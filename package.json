@@ -1,0 +1,12 @@
+{
+  "name": "react-workshop-api",
+  "version": "0.0.1",
+  "description": "This is a simple API for use in my React Workshop.",
+  "main": "server.js",
+  "repository": "git@github.com:kevinmccartney/react-workshop-api.git",
+  "author": "Kevin McCartney <hello@kevinmccartney.is>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
