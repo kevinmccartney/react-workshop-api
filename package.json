@@ -1,6 +1,6 @@
 {
   "name": "react-workshop-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This is a simple API for use in my React Workshop.",
   "main": "server.js",
   "repository": "git@github.com:kevinmccartney/react-workshop-api.git",
